@@ -1,6 +1,6 @@
 ## OSS Commercilaization with Hybrid Models
 
-This code is provided related to the research work of Tanyel Tuncer.
+This code is provided related to the research work of Tanyel Tuncer. <br>
 Status: In Review
 
 
