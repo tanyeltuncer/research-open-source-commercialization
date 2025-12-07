@@ -1,7 +1,7 @@
 ## OSS Commercilaization with Hybrid Models
 
 This code is provided related to the research work of Tanyel Tuncer. </br>
-Status: In Review
+Publication: https://journals.aom.org/doi/abs/10.5465/AMPROC.2025.24079abstract 
 
 
 ### Provided python script and datasets
